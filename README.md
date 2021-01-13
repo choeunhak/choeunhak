@@ -1,6 +1,6 @@
 ### Hi, I'm Cho 👋
 - 🌱 I’m currently working as a Full-Stack Developer at Veradi Corporation.
-- 🌱 I’m currently learning Docker & Spring.
+- 🌱 I’m currently learning Docker, Spring, Data Analytics.
 
 Technologies I've been learning and using so far :
 - Frontend :   
