@@ -13,7 +13,7 @@ Technologies I've been learning and using so far :
 
 - Database:   
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://dinhanhthi.com/notes)   
-    [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://dinhanhthi.com/notes)   
+    [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://dinhanhthi.com/notes)
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://dinhanhthi.com/notes)
 
 - Application:   
