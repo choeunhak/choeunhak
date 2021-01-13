@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Cho 👋
+- 🌱 I’m currently working as a Full-Stack Developer at Veradi Corporation.
+- 🌱 I’m currently learning Docker & Spring.
 
-<!--
-**Cho-Eunhak/Cho-Eunhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies I've been learning and using so far :
+- Frontend :   
+    ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)(Redux, React Hook,  Material UI)   
+	![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)
 
-Here are some ideas to get you started:
+- Backend & Server:   
+    ![Django](https://img.shields.io/badge/-Django-eee?style=flat-square&logo=django&logoColor=092E20)(Django-rest-framework, Django-rest-knox)   
+	![Spring](https://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)(Spring Security)   
+	![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Database:   
+    [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://dinhanhthi.com/notes)   
+    [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://dinhanhthi.com/notes)   
+    [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://dinhanhthi.com/notes)
