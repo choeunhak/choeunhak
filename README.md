@@ -4,7 +4,7 @@
 
 Technologies I've been learning and using so far :
 - Frontend :   
-    ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)(Redux, React Hook, Material UI, SASS)   
+    ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)(Redux, React Hook,  Material UI, SASS)   
 
 - Backend & Server:   
     ![Django](https://img.shields.io/badge/-Django-eee?style=flat-square&logo=django&logoColor=092E20)(Django-rest-framework, Django-rest-knox)   
