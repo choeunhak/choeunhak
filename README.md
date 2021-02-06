@@ -2,6 +2,11 @@
 - 🌱 I’m currently working as a Full-Stack Developer at Veradi Corporation.
 - 🌱 I’m currently learning Docker, Spring, Data Analytics.
 
+
+My Blog
+[Myblog](https://durumiss.tistory.com/)
+
+
 Technologies I've been learning and using so far :
 
 - Backend & Server:    
