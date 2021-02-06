@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Docker, Spring, Data Analytics.
 
 
-My Blog
-[Myblog](https://durumiss.tistory.com/)
+My Blog   
+[My Blog](https://durumiss.tistory.com/)
 
 
 Technologies I've been learning and using so far :
