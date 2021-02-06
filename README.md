@@ -8,6 +8,7 @@ Technologies I've been learning and using so far :
 	![Spring](https://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)(Spring Security)   
 	![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)
 	![Kubernetes](https://img.shields.io/badge/-Kubernetes-eee?style=flat-square&logo=Kubernetes&logoColor=326CE5)
+	![Ubuntu](https://img.shields.io/badge/-Ubuntu-eee?style=flat-square&logo=Ubuntu&logoColor=E95420)
 	
 - Database:   
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://dinhanhthi.com/notes)
