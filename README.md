@@ -10,7 +10,7 @@ My Blog
 Technologies I've been learning and using so far :
 
 - Backend & Server:    
-	![Spring](https://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)(Gradle, Maven, Spring Security, JPA, Junit5)   
+	![Spring](https://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)(Gradle, Maven, Spring Security, JPA, Junit5, JSTL)   
 	![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)
 	![Ubuntu](https://img.shields.io/badge/-Ubuntu-eee?style=flat-square&logo=Ubuntu&logoColor=E95420)
 	
