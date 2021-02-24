@@ -10,13 +10,11 @@ My Blog
 Technologies I've been learning and using so far :
 
 - Backend & Server:    
-	![Spring](https://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)(Spring Security)   
+	![Spring](https://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F)(Spring Security, JPA, Junit5, Gradle, Maven )   
 	![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)
-	![Kubernetes](https://img.shields.io/badge/-Kubernetes-eee?style=flat-square&logo=Kubernetes&logoColor=326CE5)
 	![Ubuntu](https://img.shields.io/badge/-Ubuntu-eee?style=flat-square&logo=Ubuntu&logoColor=E95420)
 	
 - Database:   
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://dinhanhthi.com/notes)
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://dinhanhthi.com/notes)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://dinhanhthi.com/notes)   
     
@@ -33,3 +31,6 @@ Technologies I've been learning and using so far :
     
     <!--https://simpleicons.org/?q=react-na
 https://pandao.github.io/editor.md/en.html-->
+
+<!--
+	![Kubernetes](https://img.shields.io/badge/-Kubernetes-eee?style=flat-square&logo=Kubernetes&logoColor=326CE5)>
