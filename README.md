@@ -7,6 +7,10 @@ My Blog
 [My Blog](https://durumiss.tistory.com/)
 
 
+My Portfolio   
+[My Portfolio](https://www.notion.so/Choeunhak-92451136de1042169915d356773d8f9c)
+
+
 Technologies I've been learning and using so far :
 
 - Backend & Server:    
