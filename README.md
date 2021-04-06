@@ -1,5 +1,4 @@
 ### Hi, I'm Cho 👋
-- 🌱 I’m currently working as a Backend Developer at Veradi Corporation.
 - 🌱 I’m currently learning ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed), ![Spring](https://img.shields.io/badge/-Spring-eee?style=flat-square&logo=spring&logoColor=6DB33F), Data Analytics.
 
 
