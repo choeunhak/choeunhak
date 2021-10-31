@@ -1,8 +1,6 @@
 - Spring MVC, Spring Webflux
 - Data Science(R, scikit-learn)
 - React
-
-Studying
 - Hadoop, Spark, kafka
 - AWS, Docker
 
