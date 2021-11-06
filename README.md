@@ -1,10 +1,10 @@
-- Hadoop, Spark, kafka, airflow
+- hadoop, spark, kafka, airflow, pig, hive, hbase, oozie
+- data science(scikit-learn, spark mllib)
 
 
-- Spring MVC, Spring Webflux
-- Data Science(scikit-learn)
-- React
-- AWS, Docker
+- spring mvc, spring webflux
+- react
+- aws, docker
 
 
 
