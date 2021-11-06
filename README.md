@@ -1,7 +1,9 @@
+- Hadoop, Spark, kafka, airflow
+
+
 - Spring MVC, Spring Webflux
-- Data Science(R, scikit-learn)
+- Data Science(scikit-learn)
 - React
-- Hadoop, Spark, kafka
 - AWS, Docker
 
 
