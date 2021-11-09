@@ -2,5 +2,5 @@
 - data science(scikit-learn, spark mllib)
 
 
-- spring mvc, eact
+- spring mvc, jpa, react
 - aws, docker
