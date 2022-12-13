@@ -1,6 +1,5 @@
 ## 이력
 - 명지대학교 융합소프트웨어학부 재학(4.08/4.5) 2017.03 ~ (재학중)
-- [민트기술](https://mintech.kr/) 백엔드 인턴
 - [BOAZ](https://www.bigdataboaz.com/) 데이터 엔지니어링팀 18기   
 - GDSC MJU 
 
