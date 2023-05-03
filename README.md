@@ -1,1 +1,1 @@
-✔️ [Blog!](https://durumiss.tistory.com/)
+✔️ [블로그!](https://durumiss.tistory.com/)
